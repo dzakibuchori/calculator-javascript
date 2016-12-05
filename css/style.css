@@ -1,0 +1,35 @@
+#title {
+  font-size: 3em;
+  background-color: crimson;
+  color: azure;
+  width: 500px;
+  height: 100px; }
+
+.container {
+  margin: 15px; }
+
+#output {
+  height: 70px;
+  background-color: black;
+  color: yellow;
+  width: 90%;
+  font-size: 3em;
+  text-align: right;
+  padding: 5px;
+  margin: 25px 0px 25px 0px;
+  overflow: hidden; }
+
+#mycalcu {
+  width: 620px;
+  background-color: darkcyan;
+  height: 560px; }
+
+.cbutton, #back {
+  background-color: crimson;
+  margin: 5px;
+  padding: 15px;
+  font-size: 3em;
+  width: 90px;
+  height: 90px; }
+
+/*# sourceMappingURL=style.css.map */
